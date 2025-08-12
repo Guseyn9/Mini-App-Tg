@@ -82,10 +82,19 @@ const Styled = {
     justify-content: space-between;
     align-items: center;
     margin-bottom: 25px;
+
+    @media(max-width: 360px) {
+      flex-direction: column;
+      align-items: center;
+    }
   `,
   userContent: styled.div`
     display: flex;
     align-items: center;
+
+    @media(max-width: 360px) {
+      margin-bottom: 15px;
+    }
   `,
   userIcon: styled.img`
     width: 32px;

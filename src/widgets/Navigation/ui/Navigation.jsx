@@ -7,6 +7,7 @@ export const Navigation = () => {
   const NAVIGATION_ITEM = navigation_item();
   return (
     <Styled.container>
+      <Styled.content>
       <Styled.navigation>
         <Styled.navList>
           {NAVIGATION_ITEM.map((item) => (
@@ -14,18 +15,30 @@ export const Navigation = () => {
           ))}
         </Styled.navList>
       </Styled.navigation>
+    </Styled.content>
     </Styled.container>
+    
   )
 }
 
 const Styled = {
     container: styled.div`
       width: 100%;
-      padding: 0 20px;
+      display: flex;
+      justify-content: center;
       position: fixed;
       bottom: 30px;
       left: 0;
       z-index: 3;
+    `,
+    content: styled.div`
+      min-width: 600px;
+      padding: 0 20px;
+
+      @media(max-width: 600px) {
+        width: 100%;
+        min-width: unset;
+      }
     `,
     navigation: styled.div`
       width: 100%;

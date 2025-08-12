@@ -32,5 +32,11 @@ const Styled = {
     position: relative;
     padding: 30px 20px;
     padding-bottom: 132px;
+    min-width: 600px;
+
+    @media(max-width: 600px) {
+      width: 100%;
+      min-width: unset;
+    }
   `
 }

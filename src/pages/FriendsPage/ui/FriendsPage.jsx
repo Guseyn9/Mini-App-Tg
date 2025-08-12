@@ -147,10 +147,18 @@ const Styled = {
     border-radius: 24px;
     margin-bottom: 16px;
     padding: 8px 20px;
+
+    @media(max-width: 360px) {
+      padding: 8px 15px;
+    }
   `,
   blockImg: styled.img`
     margin-right: 16px;
     padding-top: 8px;
+
+    @media(max-width: 360px) {
+      margin-right: 8px;
+    }
   `,
   npBlockContent: styled.div`
     display: flex;
