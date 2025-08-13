@@ -19,8 +19,8 @@
   [Демо](https://my-food-project-ten.vercel.app/) | [Код](https://github.com/Guseyn9/Food-project)
 - **Lagoona** — красивый сайт для сети отелей  
   [Демо](https://demo-link.com) | [Код](https://github.com/username/crypto-dashboard)
-  - **Rocont-** — приятный сайт с JavaScript анимациями  
-  [Демо](https://rocont-project.vercel.app/) | [Код](https://github.com/username/crypto-dashboard)
+- **Rocont** — приятный сайт с JavaScript анимациями  
+  [Демо](https://rocont-project.vercel.app/) | [Код](https://github.com/Guseyn9/Rocont-project)
 
 ---
 
