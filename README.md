@@ -17,8 +17,12 @@
   [Демо этого проекта](https://mini-app-tg-nu.vercel.app/)
 - **Food-project** — мини интернет магазин на state manager Redux-Toolkit  
   [Демо](https://my-food-project-ten.vercel.app/) | [Код](https://github.com/Guseyn9/my-food-project)
+ - **W-wawe** — музыкальный сайт с приятным дизайном и анимациями  
+  [Демо](https://w-wawe-cyan.vercel.app/) | [Код](https://github.com/Guseyn9/W-wawe)
 - **Lagoona** — красивый сайт для сети отелей  
-  [Демо](https://demo-link.com) | [Код](https://github.com/username/crypto-dashboard)
+  [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona/tree/main)
+ - **Clinic-main** — сайт для клиники медмел  
+  [Демо](https://clinic-main-omega.vercel.app/) | [Код](https://github.com/Guseyn9/Clinic-main)
 - **Rocont** — приятный сайт с JavaScript анимациями  
   [Демо](https://rocont-project.vercel.app/) | [Код](https://github.com/Guseyn9/Rocont-project)
 
