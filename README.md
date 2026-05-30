@@ -18,7 +18,7 @@
 - **Food-project** — мини интернет магазин на state manager Redux-Toolkit  
   [Демо](https://my-food-project-ten.vercel.app/) | [Код](https://github.com/Guseyn9/my-food-project)
  - **W-wawe** — музыкальный сайт с приятным дизайном и анимациями  
-  [Демо](https://w-wawe-cyan.vercel.app/) | [Код](https://github.com/Guseyn9/W-wawe)
+  [Демо](https://w-wave-lac.vercel.app/) | [Код](https://github.com/Guseyn9/W-wave)
 - **Lagoona** — красивый сайт для сети отелей  
   [Демо](https://lagoona-one.vercel.app/) | [Код](https://github.com/Guseyn9/Lagoona/tree/main)
  - **Clinic-main** — сайт для клиники медмел  
